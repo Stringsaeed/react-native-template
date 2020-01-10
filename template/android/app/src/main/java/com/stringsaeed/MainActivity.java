@@ -1,4 +1,4 @@
-package com.template;
+package com.stringsaeed;
 
 import com.facebook.react.ReactActivity;
 
