@@ -1,0 +1,20 @@
+{
+  "name": "@stringsaeed/react-native-template-stringsaeed",
+  "version": "0.0.1",
+  "description": "React Native Template",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Stringsaeed/react-native-template.git"
+  },
+  "private": false,
+  "author": "Muhammed Saeed <stringsaeed@gmail.com",
+  "license": "MIT",
+  "main": "template.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/Stringsaeed/react-native-template/issues"
+  },
+  "homepage": "https://github.com/Stringsaeed/react-native-template#readme"
+}
