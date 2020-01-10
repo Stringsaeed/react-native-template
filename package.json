@@ -6,6 +6,9 @@
     "type": "git",
     "url": "git+https://github.com/Stringsaeed/react-native-template.git"
   },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
   "private": false,
   "author": "Muhammed Saeed <stringsaeed@gmail.com",
   "license": "MIT",
