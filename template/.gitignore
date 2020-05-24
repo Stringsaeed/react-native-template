@@ -1,3 +1,5 @@
+# NEVER
+.idea/**
 # OSX
 #
 .DS_Store
@@ -20,7 +22,6 @@ DerivedData
 *.hmap
 *.ipa
 *.xcuserstate
-project.xcworkspace
 
 # Android/IntelliJ
 #
