@@ -17,7 +17,8 @@ const plugins = [
         '@utils': './src/utils'
       }
     }
-  ]
+  ],
+  'react-native-reanimated/plugin'
 ];
 
 module.exports = {

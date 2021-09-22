@@ -1,12 +1,11 @@
 {
   "name": "@stringsaeed/react-native-template-stringsaeed",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "React Native Template",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Stringsaeed/react-native-template.git"
   },
-  "private": false,
   "author": "Muhammed Saeed <stringsaeed@gmail.com",
   "license": "MIT",
   "main": "template.config.js",

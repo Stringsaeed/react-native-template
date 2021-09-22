@@ -5,8 +5,8 @@ module.exports = {
   plugins: ['@typescript-eslint', 'prettier', 'react', 'react-native'],
   settings: {
     'import/resolver': {
-      typescript: {}
-    }
+      typescript: {},
+    },
   },
   rules: {
     'react-native/no-inline-styles': 2,
@@ -15,8 +15,8 @@ module.exports = {
     'react-native/no-raw-text': [
       2,
       {
-        skip: ['Button']
-      }
+        skip: ['Button'],
+      },
     ],
     'react-native/no-single-element-style-arrays': 2,
     'no-restricted-imports': [
@@ -27,10 +27,10 @@ module.exports = {
             name: 'react',
             importNames: ['useMemo', 'useCallback'],
             message:
-              '`useMemo` and `useCallback` are subject to cache busting. Please use `useMemoOne`'
-          }
-        ]
-      }
+              '`useMemo` and `useCallback` are subject to cache busting. Please use `useMemoOne`',
+          },
+        ],
+      },
     ],
     'import/order': [
       'warn',
@@ -41,10 +41,10 @@ module.exports = {
           'internal',
           'parent',
           'sibling',
-          'object'
-        ]
-      }
+          'object',
+        ],
+      },
     ],
-    'import/newline-after-import': ['error', { count: 1 }]
-  }
+    'import/newline-after-import': ['error', {count: 1}],
+  },
 };
